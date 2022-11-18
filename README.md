@@ -1,7 +1,13 @@
 # K21GP SHOP
 Semester 3: Create Ecommerce website with all curde actions
+Submitted By: Zair Hussain(12113712)(RK21GPB65)
+              Sunny Kumar(12105519)(RK21GPA08)
+              Alla Maheshwar Reddy(12107643)(RK21GPB39)
+              
+Submitted To: Cherry Khosla Mam
+Section: K21GP
 
-Welcome to my E-commerce application 'The Emporium' where you can purchase various items from five categories that are as follows:
+Welcome to my E-commerce application 'K21GP Shop' where you can purchase various items from five categories that are as follows:
 * Grocery
 * Electronics
 * Sports and Gym Equipment
